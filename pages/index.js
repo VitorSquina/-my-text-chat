@@ -1,4 +1,4 @@
-import {Contador} from 'funcionalidades.js';
+
 import { Box, Button, Text, TextField, Image } from '@skynexui/components';
 import Link from 'next/link';
 import appConfig from '../config.json';
