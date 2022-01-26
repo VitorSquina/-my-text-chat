@@ -8,7 +8,7 @@ function GlobalStyle() {
     <style global jsx>{`
       * {
         margin: 0;
-        padding: 0;
+        padding: 0; 
         box-sizing: border-box;
         list-style: none;
 
@@ -53,7 +53,7 @@ function Titulo(props) {
 // function HomePage() {
 //     // JSX
 //     return (
-//         <div>
+//         <div> a
 //             <GlobalStyle />
 //             <Titulo tag="h2">Boas vindas de volta!</Titulo>
 //             <h2>Discord - Alura Matrix</h2>
