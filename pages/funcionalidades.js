@@ -1,4 +1,4 @@
-import { useState} from "react";
+import {useState} from "react";
 
 function Contador (){
     const [contador,setContador] = useState(1)
